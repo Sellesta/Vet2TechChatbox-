@@ -57,7 +57,6 @@ can be leveraged to enhance learning experiences through interactive conversatio
 ---
 
 ## 🚀 Try It Out!  
-🔗 **GitHub Repository:** _[Coming Soon]_  
 🎉 **Live Demo (If Available):** _[Coming Soon]_  
 
 ---
