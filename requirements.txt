@@ -1,0 +1,4 @@
+Django==5.1.6
+gunicorn==21.2.0
+djangorestframework==3.14.0
+sqlite3==3.36.0
