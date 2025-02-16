@@ -25,7 +25,9 @@ SECRET_KEY = "django-insecure-66s95x^zr%b)96h!(g#dqq17-xrrwqrd@b@&mg%p7#5gsm$v8c
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost']
+
+ALLOWED_HOSTS = ["vet2techchatbox.onrender.com", "127.0.0.1"]
+
 
 
 # Application definition
