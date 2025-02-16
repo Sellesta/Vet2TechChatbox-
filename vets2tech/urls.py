@@ -17,8 +17,14 @@ Including another URLconf
 
 from django.contrib import admin
 from django.urls import path, include
+from django.http import HttpResponse
+
+# Simple homepage view
+def homepage(request):
+    return HttpResponse("<h1>Welcome to Vet2Tech Chatbot!</h1>")
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
-    path('', include('chatbot.urls')),  # Include chatbot URLs
+    path("admin/", admin.site.urls),
+    path("", homepage, name="homepage"),  # Add this line
+    path("chatbot/", include("chatbot.urls")),  # Ensure chatbot URLs are included
 ]
