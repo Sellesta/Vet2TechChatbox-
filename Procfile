@@ -1,0 +1,1 @@
+web: gunicorn vets2tech.wsgi:application
