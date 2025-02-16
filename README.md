@@ -5,6 +5,8 @@
 This AI-powered bot allows users to **ask questions, receive instant answers**, and **test their knowledge**  
 in subjects like **Science, Geography, Technology, and Math**.  
 
+Try it ou: https://vet2techchatbox.onrender.com/chatbot/chat/
+
 Built for the **"Build Your Own AI Chatbot" Hackathon**, this project explores how AI  
 can be leveraged to enhance learning experiences through interactive conversations.  
 
