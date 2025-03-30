@@ -59,7 +59,7 @@ can be leveraged to enhance learning experiences through interactive conversatio
 ---
 
 ## 🚀 Try It Out!  
-🎉 **Live Demo (If Available):** _[Coming Soon]_  
+🎉 **Live Demo (Available):** [Devpost - Talk with AI](https://devpost.com/submit-to/23552-build-your-own-ai-chat-bot/manage/submissions/617122-talk-with-ai/project_details/edit)   
 
 ---
 
